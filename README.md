@@ -9,3 +9,4 @@ __**Em estudo diário!**__
 - Singleton [4]
 - Factory Method [5]
 - Abstract Factory [5]
+- Builder [2]
