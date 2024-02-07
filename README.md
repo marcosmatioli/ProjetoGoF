@@ -10,3 +10,4 @@ __**Em estudo diário!**__
 - Factory Method [5]
 - Abstract Factory [5]
 - Builder [2]
+- Prototype [3]
