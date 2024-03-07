@@ -15,3 +15,4 @@ __**Em estudo diário!**__
 ## Estrutural
 **São problemas de composição das classes, utilizamos fortemente o conceito de herança nesse projeto**
 - Bridge [3]
+- Adapter [4]
