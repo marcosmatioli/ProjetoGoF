@@ -11,3 +11,7 @@ __**Em estudo diário!**__
 - Abstract Factory [5]
 - Builder [2]
 - Prototype [3]
+
+## Estrutural
+**São problemas de composição das classes, utilizamos fortemente o conceito de herança nesse projeto**
+- Bridge [3]
